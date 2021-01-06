@@ -1,4 +1,4 @@
 <?php
 echo "aa";
 
-array_merge()
+array_merge();
