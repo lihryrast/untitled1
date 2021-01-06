@@ -2,3 +2,5 @@
 echo "aa";
 
 array_merge();
+
+?>
